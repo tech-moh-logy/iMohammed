@@ -1,2 +1,2 @@
-- [Personal Website](https://tech-moh-logy.github.io)  
+- My 2025 portfolio is under re-construction — while that’s happening, you can find me on LinkedIn, or view my [2024 - Personal Website](https://tech-moh-logy.github.io)
 - [UI/UX Case Study](https://github.com/tech-moh-logy/UI-UX-Case-Studies/blob/main/Personal-Website/iMohammed%20©%20-%20UI-UX%20Design%20Case%20Study-2.pdf)
